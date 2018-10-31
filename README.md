@@ -4,4 +4,4 @@
 
 Setup-Data for my own Jenkins-Server
 
-[Screenshot](jenkins_screenshot.jpg)
+![Screenshot](jenkins_screenshot.jpg)
